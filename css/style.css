@@ -116,3 +116,18 @@ hr {
     background-color:#D8D8D8;
     font-weight: 900;
 }
+
+/*Navbar styling*/
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(216,216,216, 2.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.navbar-toggler {
+    border-color: rgb(216,216,216);
+    border-width: 1.5px;
+} 
+
+.about-me-picture {
+    background-color:#0049A6;
+    border-color:#0049A6;
+}
