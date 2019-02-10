@@ -1,5 +1,6 @@
 body {
     background-color: #0049A6;
+    margin-bottom: 60px;
 }
 
 .nav-link {
@@ -16,6 +17,14 @@ body {
     background-color: #0049A6;
     margin-top: 10px;
     border-color:#0049A6;
+}
+
+.learn-more {
+    background-color: #0049A6;
+    margin-top: 10px;
+    border-color:#0049A6;
+    color:#0049A6;
+    font-weight: 700;
 }
 
 .card-title {
@@ -54,4 +63,56 @@ body {
 
 .a {
     color: red;
+}
+
+.carousel{
+    margin-bottom: 0px;
+}
+
+
+/*Footer*/
+html {
+    position: relative;
+    min-height: 100%;
+  }
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px; /* Set the fixed height of the footer here */
+    line-height: 60px; /* Vertically center the text there */
+    background-color: #0049A6;
+    text-align: center;
+    color:#ffffff;
+}
+
+/*About Me page*/
+.title {
+    font-weight: 800;
+}
+
+.blog-post {
+    color: #ffffff;
+}
+
+.jumbotron {
+    background-color:#D8D8D8;
+}
+
+.about-me-text {
+    color:#0049A6;
+    font-weight: 800;
+}
+
+.my-links {
+    background-color:#D8D8D8;
+}
+
+.emailsidebar {
+    background-color:#D8D8D8;
+}
+
+hr {
+    background-color:#D8D8D8;
+    font-weight: 900;
 }
