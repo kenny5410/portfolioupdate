@@ -45,3 +45,13 @@ body {
     font-weight: bolder;
     font-size: 40px;
 }
+
+.modal-header {
+    font-weight: 800;
+    color:#ffffff;
+    background-color: #0049A6;
+}
+
+.a {
+    color: red;
+}
